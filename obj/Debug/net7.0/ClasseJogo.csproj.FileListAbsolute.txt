@@ -1,0 +1,15 @@
+C:\Cursos\Meus Projetos\ClasseJogo\bin\Debug\net7.0\ClasseJogo.exe
+C:\Cursos\Meus Projetos\ClasseJogo\bin\Debug\net7.0\ClasseJogo.deps.json
+C:\Cursos\Meus Projetos\ClasseJogo\bin\Debug\net7.0\ClasseJogo.runtimeconfig.json
+C:\Cursos\Meus Projetos\ClasseJogo\bin\Debug\net7.0\ClasseJogo.dll
+C:\Cursos\Meus Projetos\ClasseJogo\bin\Debug\net7.0\ClasseJogo.pdb
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.csproj.AssemblyReference.cache
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.AssemblyInfoInputs.cache
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.AssemblyInfo.cs
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.csproj.CoreCompileInputs.cache
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.dll
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\refint\ClasseJogo.dll
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.pdb
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ClasseJogo.genruntimeconfig.cache
+C:\Cursos\Meus Projetos\ClasseJogo\obj\Debug\net7.0\ref\ClasseJogo.dll
